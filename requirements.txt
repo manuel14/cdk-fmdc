@@ -1,2 +1,13 @@
-aws-cdk-lib==2.12.0
+
+#aws-cdk-lib==2.12.0
 constructs>=10.0.0,<11.0.0
+aws-cdk.aws-lambda
+aws-cdk.aws-events
+aws-cdk.aws-s3
+aws-cdk.aws-s3-assets
+aws-cdk.cloud-assembly-schema
+aws-cdk.cx-api
+aws-cdk.aws-apigateway
+aws-cdk.custom-resources
+aws-cdk.region-info
+jsii

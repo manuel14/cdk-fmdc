@@ -1,10 +1,6 @@
 #!/usr/bin/env python3
-import os
-
 import aws_cdk as cdk
-
 from cdk_fmdc.cdk_fmdc_stack import CdkFmdcStack
-
 
 app = cdk.App()
 CdkFmdcStack(app, "CdkFmdcStack",
